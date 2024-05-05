@@ -299,7 +299,7 @@ header nav .ul {
   }
 }
 @media (max-width: 800px) {
-  header {
+  header, .freefire-container, .roblox-container {
     padding: 20px 50px;
   }
 }
@@ -343,7 +343,7 @@ header nav .ul {
   }
 }
 @media (max-width: 450px) {
-  header {
+  header, .freefire-container, .roblox-container {
     padding: 20px;
   }
 }
