@@ -344,6 +344,7 @@ header nav .ul {
 }
 @media (max-width: 450px) {
   header, .freefire-container, .roblox-container {
+    flex-direction: column;
     padding: 20px;
   }
 }
