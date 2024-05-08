@@ -52,8 +52,13 @@ const FreeFire = () => {
                 </div>
               </div>
             </div>
-            <button className="btn" onClick={() => window.location.href = "https://web.facebook.com/profile.php?id=61554854941618"}>
-              Get Now
+            <button className="btn">
+              <a
+                href="https://web.facebook.com/profile.php?id=61554854941618"
+                target="_blank"
+              >
+                Get Now
+              </a>
             </button>
           </div>
         ))}

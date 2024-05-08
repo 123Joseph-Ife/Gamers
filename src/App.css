@@ -251,6 +251,10 @@ header nav .ul {
   border-radius: 10px;
   background-color: #fff;
 }
+.freefire .freefireitem .btn a,
+.roblox .robloxitem .btn a {
+    color: #121212;
+}
 @keyframes background-animation {
   0% {
     background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
