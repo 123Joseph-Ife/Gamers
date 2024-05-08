@@ -52,14 +52,12 @@ const FreeFire = () => {
                 </div>
               </div>
             </div>
-            <button className="btn">
-              <a
-                href="https://web.facebook.com/profile.php?id=61554854941618"
-                target="_blank"
-              >
-                Get Now
-              </a>
-            </button>
+            <a className="link-btn"
+              href="https://web.facebook.com/profile.php?id=61554854941618"
+              target="_blank"
+            >
+              <button className="btn">Get Now</button>
+            </a>
           </div>
         ))}
       </div>

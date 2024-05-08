@@ -244,16 +244,17 @@ header nav .ul {
 .roblox .robloxitem .down .question .price span {
   text-decoration: double line-through;
 }
-.freefire .freefireitem .btn,
-.roblox .robloxitem .btn {
+.freefire .freefireitem .link-btn,
+.roblox .robloxitem .link-btn {
   width: 100%;
   padding: 10px 30px;
   border-radius: 10px;
   background-color: #fff;
+  color: #121212;
 }
-.freefire .freefireitem .btn a,
-.roblox .robloxitem .btn a {
-    color: #121212;
+.freefire .freefireitem .link-btn .btn,
+.roblox .robloxitem .link-btn .btn {
+    background: transparent;
 }
 @keyframes background-animation {
   0% {
